@@ -216,5 +216,4 @@ class Window:
 
 #********** Main process **********
 if __name__ == "__main__":
-    #----------入力値の受け取り----------
     w = Window()
