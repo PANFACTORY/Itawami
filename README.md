@@ -14,6 +14,8 @@ It is known as Navier's solution. When calculating a plate of which all edges ar
 
 and detects c based on Ritz's method.
 
+![sample](https://user-images.githubusercontent.com/42970333/62261353-fbb6fb80-b44f-11e9-849e-f99f811adfef.JPG)
+
 
 ## Dependency
 iTawami runs on Python3 and mainly depends on these python packages:
@@ -27,7 +29,7 @@ iTawami runs on Python3 and mainly depends on these python packages:
 
 ## Usage
 iTawami is operated with pressing these keys:
-* ª«¨© : rotate graph
+* â†‘â†“â†’â† : rotate graph
 * s : show a plate of which all edges are supported 
 * f : show a plate of which all edges are fixed
 * a : change width a of plate after typing digit keys
@@ -40,7 +42,7 @@ Tanabe Yuta
 
 ## References
 * S.Timoshenko and S.Woinowsky-Krieger: THEORY OF PLATES AND SHELLS, McGRAW-HILL BOOK COMPANY(1959)
-* Hangai Yasuhiko: •½”Â‚ÌŠî‘b—˜_, ²‘Ğ(1995)
+* Hangai Yasuhiko: å¹³æ¿ã®åŸºç¤ç†è«–, å½°å›½ç¤¾(1995)
 
 
 
